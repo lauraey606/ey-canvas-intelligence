@@ -1,2 +1,3 @@
-# ey-canvas-intelligence
-AI-powered insights and document processing engine
+# EY Canvas Intelligence
+
+Intelligent canvas for visual data exploration.
